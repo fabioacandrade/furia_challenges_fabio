@@ -174,7 +174,3 @@ A comunicação entre frontend e backend é feita via API RESTful, utilizando JS
 ## Licença
 
 Este projeto está licenciado sob a licença MIT - veja o arquivo LICENSE para detalhes.
-
-## Contato
-
-FURIA Esports - [Website](https://furia.gg) - [@furia](https://twitter.com/furia)

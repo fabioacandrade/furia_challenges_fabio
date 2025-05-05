@@ -513,7 +513,7 @@ const DashboardPage: React.FC = () => {
                     } else if (item.cta === 'Register') {
                       setIsWorkshopModalOpen(true);
                     } else if (item.cta === 'Watch') {
-                      window.open('https://www.youtube.com/@FURIA', '_blank');
+                      window.open('https://www.instagram.com/reel/DJPykAip1A6/', '_blank');
                     }
                   }}
                 >
